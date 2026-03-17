@@ -44,4 +44,4 @@ Não quer pensar? Gira a roleta! O app sorteia uma opção aleatória entre toda
 - [ ] Perfil de usuário e histórico
 - [ ] Versão mobile
 
-<p align="center">Feito com 🍕 e muita indecisão alimentar.</p>
+<p align="center">Feito com fome e muita indecisão alimentar.</p>
